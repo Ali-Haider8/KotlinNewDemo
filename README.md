@@ -8,8 +8,9 @@ A repository for storing **Kotlin examples and practical exercises** from a lear
 - 🧩 Course-related code files
 
 ## 📺 Course Source
-▶️ **Android App Development with Kotlin**  
+▶️ **Kotlin on Android | الدورة الكاملة لبرمجة تطبيقات الأندرويد**  
 📺 **The New Baghdad Channel**  
+👨‍🏫 **Dr. Hussein Alrubaye**  
 🎞️ YouTube Playlist
 
 ## 🗓️ Learning Start Date
