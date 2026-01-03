@@ -1,6 +1,6 @@
 # 🚀 Kotlin New Demo
 
-A repository for storing **Kotlin examples and practical exercises** from a learning course.
+> *A repository for storing **Kotlin examples and practical exercises** from a learning course.*
 
 ## 📂 Repository Content
 - 📄 Kotlin demo files
@@ -13,9 +13,6 @@ A repository for storing **Kotlin examples and practical exercises** from a lear
 👨‍🏫 **Dr. Hussein Alrubaye**  
 🎞️ YouTube Playlist
 
-## 🗓️ Learning Start Date
-📅 **September 22, 2024**  
-⏰ **7 AM**
+> *📅 **Learning Start Date — September 22, 2024***
 
-## 🎯 Purpose
-🎯 To organize Kotlin learning examples and reference code.
+🎯 **Purpose:** To organize Kotlin learning examples and reference code.
